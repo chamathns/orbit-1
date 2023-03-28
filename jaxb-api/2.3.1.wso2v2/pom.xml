@@ -50,7 +50,7 @@
                             javax.xml.datatype,
                             javax.xml.namespace,
                             javax.xml.parsers,
-                            javax.xml.stream,
+                            javax.xml.stream;version="0.0.0",
                             javax.xml.transform,
                             javax.xml.transform.dom,
                             javax.xml.transform.sax,

@@ -253,7 +253,7 @@
                             javax.xml.datatype;version="${default.import.range}",
                             javax.xml.namespace;version="${default.import.range}",
                             javax.xml.parsers;version="${default.import.range}",
-                            javax.xml.stream;version="${default.import.range}",
+                            javax.xml.stream;version="0.0.0",
                             javax.xml.transform;version="${default.import.range}",
                             javax.xml.transform.stream;version="${default.import.range}",
                             javax.xml.validation;version="${default.import.range}",
@@ -299,7 +299,7 @@
             <id>wso2-nexus</id>
             <name>WSO2 internal Repository</name>
             <url>
-                http://maven.wso2.org/nexus/content/groups/wso2-public/
+                https://maven.wso2.org/nexus/content/groups/wso2-public/
             </url>
             <releases>
                 <enabled>true</enabled>

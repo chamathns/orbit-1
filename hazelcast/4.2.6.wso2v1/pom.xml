@@ -63,6 +63,7 @@
                             !junit.framework,
                             !org.junit,
                             !org.mockito,
+                            javax.xml.stream.*; version="0.0.0",
                             *;resolution:=optional
                         </Import-Package>
                         <Private-Package>

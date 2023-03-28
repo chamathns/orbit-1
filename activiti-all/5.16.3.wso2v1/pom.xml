@@ -297,7 +297,7 @@
                             javax.xml.datatype,
                             javax.xml.namespace,
                             javax.xml.parsers,
-                            javax.xml.stream;version="[1.0,2)",
+                            javax.xml.stream;version="0.0.0",
                             javax.xml.transform,
                             javax.xml.transform.stream,
                             javax.xml.validation,

@@ -60,8 +60,8 @@
                         </Export-Package>
                         <Import-Package>
                             !org.owasp.csrfguardorg.*,
-                            javax.servlet.jsp.*; version="${javax.servlet.jsp.version}",
-                            javax.servlet.*;version="${javax.servlet.version}"
+                            javax.servlet.jsp.*,
+                            javax.servlet.*
                         </Import-Package>
                         <Private-Package>
                         </Private-Package>

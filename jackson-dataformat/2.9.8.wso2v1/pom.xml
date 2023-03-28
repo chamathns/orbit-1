@@ -112,7 +112,7 @@
                             com.fasterxml.jackson.module.jaxb;version="${com.fasterxml.jackson.dataformat.version.range}",
                             javax.xml.bind.annotation,
                             javax.xml.namespace,
-                            javax.xml.stream;version="${javax.xml.version.range}",
+                            javax.xml.stream;version="0.0.0",
                             javax.xml.transform,
                             org.codehaus.stax2;version="${org.codehaus.stax2.version.range}",
                             org.codehaus.stax2.io;version="${org.codehaus.stax2.version.range}",

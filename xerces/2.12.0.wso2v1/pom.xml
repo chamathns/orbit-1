@@ -73,7 +73,7 @@
                             !org.apache.xml.serialize.*,
                             javax.xml.datatype; version="${javax.xml.import.version.range}";resolution:=optional,
                             javax.xml.namespace; version="${javax.xml.import.version.range}";resolution:=optional,
-                            javax.xml.stream.*; version="${javax.xml.import.version.range}";resolution:=optional,
+                            javax.xml.stream.*; version="0.0.0";resolution:=optional,
                             javax.xml.transform; version="${javax.xml.import.version.range}";resolution:=optional,
                             javax.xml.transform.dom; version="${javax.xml.import.version.range}";resolution:=optional,
                             javax.xml.transform.sax; version="${javax.xml.import.version.range}";resolution:=optional,

@@ -113,7 +113,7 @@
                             com.fasterxml.jackson.module.jaxb;version="[2.2,3)",
                             javax.xml.bind.annotation,
                             javax.xml.namespace,
-                            javax.xml.stream;version="[1.0,2)",
+                            javax.xml.stream;version="0.0.0",
                             javax.xml.transform,
                             org.codehaus.stax2;version="[3.1,4)",
                             org.codehaus.stax2.io;version="[3.1,4)",

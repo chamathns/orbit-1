@@ -113,7 +113,7 @@
                             javax.servlet;version="[2.6,2.7)",
                             javax.servlet.http;version="[2.6,2.7)",
                             javax.xml.parsers;version="0.0.0",
-                            javax.xml.stream;version="[1.0,2)",
+                            javax.xml.stream;version="0.0.0",
                             org.apache.commons.fileupload;version="[1.2,2)",
                             org.w3c.dom;version="0.0.0",
                             org.w3c.dom.ls;version="0.0.0",

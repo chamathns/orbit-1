@@ -137,8 +137,8 @@
                             version="${provided.bundles.import.version.range}";resolution:=optional,
                             javax.xml.transform;
                             version="${provided.bundles.import.version.range}";resolution:=optional,
-                            javax.xml.stream.events; version="${stream.import.version.range}";resolution:=optional,
-                            javax.xml.stream; version="${stream.import.version.range}";resolution:=optional,
+                            javax.xml.stream.events; version="0.0.0";resolution:=optional,
+                            javax.xml.stream; version="0.0.0";resolution:=optional,
                             javax.xml.parsers; version="${provided.bundles.import.version.range}";resolution:=optional,
                             javax.xml.namespace;
                             version="${provided.bundles.import.version.range}";resolution:=optional,

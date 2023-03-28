@@ -53,8 +53,8 @@
                             !org.relaxng.*,
                             !org.kohsuke.*,
                             !javax.xml.bind.*;version="2.1.0",
-                            javax.activation.*;version="[0.0.0, 1.0.0)",
-                            javax.xml.stream.*; version="1.0.1"
+                            javax.activation.*;version="[0.0.0, 2.0.0)",
+                            javax.xml.stream.*; version="0.0.0"
                         </Import-Package>
                         <DynamicImport-Package>*</DynamicImport-Package>
                     </instructions>

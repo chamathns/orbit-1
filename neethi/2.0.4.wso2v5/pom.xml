@@ -56,7 +56,7 @@
                         <Import-Package>
                             !org.apache.neethi.*; version="${exp.pkg.version.neethi}",
                             org.apache.axiom.*; version="${imp.pkg.version.axiom}",
-                            javax.xml.stream.*; version="${imp.pkg.version.javax}",
+                            javax.xml.stream.*; version="0.0.0",
                             *;resolution:=mandatory
                         </Import-Package>
                     </instructions>
