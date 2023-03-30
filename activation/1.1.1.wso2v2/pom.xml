@@ -45,7 +45,7 @@
                         <Bundle-Description>OSGI version of ${project.name}</Bundle-Description>
 			<Export-Package>
 			    javax.activation.*;version="0.0.0",
-		            com.sun.activation.*; version="0.0.0"
+                com.sun.activation.*; version="0.0.0"
 			</Export-Package>
                         <Import-Package>
                             *;resolution:=optional

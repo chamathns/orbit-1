@@ -59,7 +59,7 @@
                         <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
                         <Bundle-Name>${project.artifactId}</Bundle-Name>
                         <Export-Package>
-                            javax.xml.soap;version="1.0.0",
+                            jakarta.xml.soap;version="1.0.0",
                         </Export-Package>
                         <Fragment-Host>system.bundle; extension:=framework</Fragment-Host>
                         <_removeheaders>Import-Package</_removeheaders>

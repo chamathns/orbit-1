@@ -64,6 +64,9 @@
                             javax.servlet.http;version="[2.6.0, 2.7.0)",
                             *;resolution:=optional
                         </Import-Package>
+                        <Provide-Capability>
+                            osgi.contract;osgi.contract=JavaJSP;version:Version=2.3.0
+                        </Provide-Capability>
                         <DynamicImport-Package>*</DynamicImport-Package>
                     </instructions>
                 </configuration>

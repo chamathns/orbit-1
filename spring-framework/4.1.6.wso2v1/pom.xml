@@ -65,7 +65,7 @@
                         <Import-Package>
 							!org.springframework.*;,
 							javax.xml.stream.*; version="0.0.0",
-							javax.xml.soap; version="[0.0.0, 1.0.0)",
+							jakarta.xml.soap; version="[0.0.0, 1.0.0)",
                             *;resolution:=optional
                         </Import-Package>
                         <DynamicImport-Package>*</DynamicImport-Package>
